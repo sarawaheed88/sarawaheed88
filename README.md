@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left">Software Engineer | Software Tester</h2>
+<h2 align="left">Software Engineer</h2>
 
 ###
 
